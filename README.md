@@ -1,2 +1,2 @@
 # Halloween Page
- Page create with HTML/CSS.
+ Page create with HTML & CSS.
