@@ -1,0 +1,120 @@
+@font-face {
+    font-family: Dang;
+    src: url(/fonts/Dangrek-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fredoka;
+    src: url(/fonts/FredokaOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Luckies;
+    src: url(/fonts/LuckiestGuy-Regular.ttf);
+}
+
+@font-face {
+    font-family: Press;
+    src: url(/fonts/PressStart2P-Regular.ttf);
+}
+
+#section3 {
+    background-color: black;
+    margin: 1%;
+    border: 2px solid rgb(30, 167, 247);
+    margin-bottom: 5%;
+}
+
+.tits {
+    margin-left: 43%;
+    font-family: Fredoka;
+    font-size: 1.8em;
+    color: rgb(18, 165, 25);
+
+}
+
+.movie1 {
+    width: 6.5%;
+    border: 3px solid rgb(125, 138, 11);
+    box-shadow: 2px 2px 2px 1px rgb(218, 71, 13);
+    border-radius: 3px;
+    margin-left: 46%;
+    font-family: Dang;
+    font-size: 1.8em;
+    background-color: rgb(0, 0, 0);
+    color: rgb(213, 250, 51);
+}
+
+.trailer {
+    margin-left: 28%;
+    margin-bottom: 1%;
+}
+
+.audio {
+    margin-top: 1%;
+    margin-left: 39%;
+    margin-bottom: 1%;
+}
+
+#section4 {
+    background-color: rgb(101, 199, 202);
+    margin: 1%;
+    border: 3px solid rgb(3, 3, 10);
+    border-radius: 4px;
+    margin-bottom: 4%;
+}
+
+#eduimg {
+    border: 3px solid black;
+    border-radius: 25px;
+    box-shadow: 2px 2px 3px 2px rgb(178, 82, 216);
+    margin-left: 38%;
+    margin-bottom: 2%;
+    cursor: pointer;
+}
+
+.info {
+    margin-left: 58%;
+    font-size: 1.2em;
+    font-family: Fredoka;
+    width: 40%;
+    color: black;
+    border: 2px solid black;
+    background-color: antiquewhite;
+}
+
+#eu {
+    font-family: Luckies;
+    font-size: 2.4em;
+    color: rgb(185, 159, 12);
+    margin-left: 34%;
+    background-color: black;
+    border: 3px solid rgb(7, 92, 4);
+    border-radius: 10px;
+    width: 26.5%;
+    box-shadow: 2px 2px 2px 2px rgb(113, 248, 79);
+    cursor: pointer;
+}
+
+#eu:hover {
+    color: Gold;
+}
+
+.email {
+    border: 2px solid black;
+    border-radius: 6px;
+    margin-left: 3%;
+    background-color: black;
+    color: rgb(251, 255, 0);
+    font-family: Press;
+    text-decoration: none;
+
+}
+
+.email1 {
+    color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    font-family: Dang;
+    font-size: 1.2em;
+}

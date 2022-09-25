@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Creep;
+    src: url(/fonts/Creepster-Regular.ttf);
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: brown;
+}
+
+#section1 {
+    background-color: black;
+    margin: 1%;
+    border: 2px solid orange;
+}
+
+.tit1 {
+    text-align: center;
+    font-family: Creep;
+    font-size: 3em;
+    color: orange;
+    box-shadow: 2px 2px orange;
+}
+
+#img1 {
+    margin-left: 65%;
+    border: 2px solid rgb(255, 177, 31);
+    border-radius: 100%;
+    box-shadow: 2px 4px 5px 6px rgb(198, 88, 48);
+    position: absolute;
+}
+
+
+.text1 {
+    margin-bottom: 1%;
+    margin-left: 2%;
+    width: 45%;
+    font-size: 18px;
+    color: rgb(2, 2, 3);
+    background-color: antiquewhite;
+    border: 2px solid orange;
+}
+
+#img2 {
+    margin-left: 60%;
+}
+
+
+.tit2 {
+    margin-left: 40%;
+    width: 16%;
+    font-family: Creep;
+    font-size: 2.5em;
+    color: rgb(114, 245, 38);
+    border: 2px solid rgb(250, 192, 0);
+    background-color: rgb(124, 7, 192);
+    box-shadow: 2px 2px 2px 1px rgb(10, 150, 45);
+}
+
+#section2 {
+    background-color: black;
+    margin: 1%;
+    border: 2px solid lightgreen;
+    margin-bottom: 5%;
+}

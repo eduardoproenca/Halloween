@@ -1,0 +1,56 @@
+.img1 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid lawngreen;
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px lightgreen;
+}
+
+.img2 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid rgb(8, 124, 160);
+    border-radius: 2px;
+    box-shadow: 2px 3px 3px rgb(139, 7, 106);
+}
+
+.img3 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid rgb(198, 255, 41);
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px rgb(6, 172, 6);
+}
+
+.img4 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid rgb(181, 9, 197);
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px rgb(138, 56, 245);
+}
+
+.img5 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid rgb(197, 9, 9);
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px rgb(255, 92, 92);
+}
+
+.img6 {
+    cursor: pointer;
+    margin: 1%;
+    border: 2px solid rgb(12, 248, 236);
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px rgb(238, 195, 3);
+}
+
+.img7 {
+    cursor: pointer;
+    margin-top: 2%;
+    margin: 1%;
+    border: 3px solid rgb(59, 41, 27);
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgb(110, 5, 84);
+}
