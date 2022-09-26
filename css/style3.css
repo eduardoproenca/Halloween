@@ -93,6 +93,7 @@
     border-radius: 10px;
     width: 26.5%;
     box-shadow: 2px 2px 2px 2px rgb(113, 248, 79);
+    transition: color 0.3s ease;
     cursor: pointer;
 }
 
